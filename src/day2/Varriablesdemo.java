@@ -28,6 +28,8 @@ public class Varriablesdemo {
 	System.out.println(bl);
 	
 	
+	System.out.println("Test Love");
+	
 		
 	}
 
